@@ -18,3 +18,5 @@
 - predict: 預測需量
 	- 以 sliding windows 的方式來定時對已訓練好的模型做更新並預測
 
+
+以上為需量預測的功能，而我們會將預測結果呈現於網頁上，詳細網頁架構於[連結](https://github.com/erica60125/demandDashboard)做說明
